@@ -1,0 +1,61 @@
+# The URL the site will be built for
+base_url = "https://www.zachbellay.com"
+title = "Zach Bellay"
+
+theme="DeepThought"
+default_language = "en"
+
+taxonomies = [
+	{ name = "categories", feed = true, paginate_by = 10 },
+	{ name = "tags", fees = true, paginate_by = 10 },
+]
+
+highlight_theme = "one-dark"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+cdn_base_url = "https://zbellay.sfo3.cdn.digitaloceanspaces.com"
+
+navbar_items = [
+ { code = "en", nav_items = [
+  { url = "$BASE_URL/", name = "Home" },
+  { url = "$BASE_URL/projects", name = "Projects" },
+  { url = "$BASE_URL/posts", name = "Blog" },
+  { url = "$BASE_URL/resume", name = "Resume" },
+ ]}
+]
+
+[link_checker]
+skip_prefixes = ["http://[2001:db8::]/"]
+skip_anchor_prefixes = ["https://caniuse.com/"]
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+
+[extra.social]
+
+github = "zachbellay"
+linkedin = "zachbellay"
+email = "zbellay@gmail.com"
+
+
+[extra.author]
+name = "Zach Bellay"
+avatar = "https://zbellay.sfo3.cdn.digitaloceanspaces.com/assets/images/profile.jpg"
+
+
+[extra.mapbox]
+access_token = "pk.eyJ1IjoicmF0YW5zaHJlc2h0aGEiLCJhIjoiY2tla2s2NmM3MDd0ZzJzbXFtc3Y2YmU0NyJ9.0RhUnJPKbxHWw3xGPnnBlA"
