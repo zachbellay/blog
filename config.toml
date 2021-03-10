@@ -5,6 +5,11 @@ title = "Zach Bellay"
 theme="DeepThought"
 default_language = "en"
 
+languages = [
+    {code = "jp"},
+    {code = "es"},
+]
+
 taxonomies = [
 	{ name = "categories", feed = true, paginate_by = 10 },
 	{ name = "tags", fees = true, paginate_by = 10 },
@@ -26,14 +31,23 @@ highlight_code = true
 [extra]
 cdn_base_url = "https://zbellay.sfo3.cdn.digitaloceanspaces.com"
 
+
+
 navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
   { url = "$BASE_URL/projects", name = "Projects" },
   { url = "$BASE_URL/posts", name = "Blog" },
   { url = "$BASE_URL/resume", name = "Resume" },
+ ]},
+ { code = "jp", nav_items = [
+  { url = "$BASE_URL/", name = "ホームページ" },
+ ]},
+ { code = "es", nav_items = [
+  { url = "$BASE_URL/", name = "Principal" },
  ]}
 ]
+
 
 [link_checker]
 skip_prefixes = ["http://[2001:db8::]/"]
