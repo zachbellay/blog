@@ -26,4 +26,6 @@ There are a few takeaways from this experience:
 
 I feel conflicted about this experience. Because in order to preserve this man's privacy, I had to invade it further via probing into his identity. Ultimately, the ends probably justify the means, but still, I would feel pretty scared if I got a phone call out of the blue while I was watching YouTube videos that I was being watched.
 
+Edit (3/11/21): Photo blurred for privacy concerns.
+
 

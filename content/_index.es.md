@@ -12,4 +12,4 @@ description = ""
 Actualmente, yo trajabo en OnePointOne, Inc. Cual es una nueva compania construyendo una sistema para agricultura en interiores. 
 
 ### Mi Espanol
-Perdoname para mi espanol. Solo lo estudio cuande era en escuala segundaria, pero, yo queiro practicar a mejorar. ¡Si yo escribo algo estupido, perdoname!
+Perdoname para mi espanol. Solo lo estudio cuande era en escuala segundaria, pero, yo queiro practicar a mejorar. ¡Si yo escribo algo tonto, perdoname!
