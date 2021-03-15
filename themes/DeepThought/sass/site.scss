@@ -47,3 +47,11 @@ $breakpoint-mobile: 768px;
     font: 85% $font-stack;
   }
 }
+span.tag {
+  margin: 0 4px 6px 0;
+  padding: 3px 5px;
+  font-size: 12px;
+  background: #5bb8ff;
+  border-radius: 3px;
+  display: inline-block;
+}

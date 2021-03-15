@@ -1,9 +1,8 @@
 +++
 title="Doxxing for Good"
 date=2021-03-06
+extra.tldr="I found an unsecure webcam online, and called the guy to turn it off, and he did."
 +++
-
-**tl;dr:** I found an unsecure webcam online, and called the guy to turn it off, and he did.
 
 # The Story
 
