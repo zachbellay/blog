@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <meta content="#ffffff" name="theme-color" />
+  <meta content="#da532c" name="msapplication-TileColor" />
+
+  
+  
+  
+  
+  
+
+  <link href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/themes/folio/galleria.folio.min.css"
+    rel="stylesheet" />
+  <link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+  <link href='https:&#x2F;&#x2F;www.zachbellay.com&#x2F;site.css' rel="stylesheet" />
+
+  
+  
+
+  <title>
+    
+Zach Bellay | Doxxing for Good
+
+  </title>
+
+  <script crossorigin="anonymous" src="https://kit.fontawesome.com/201b8d5e05.js"></script>
+
+  
+</head>
+
+<body class="has-background-white">
+  
+  <nav aria-label="section navigation" class="navbar is-light" role="navigation">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item has-text-weight-bold" href="https:&#x2F;&#x2F;www.zachbellay.com">Zach Bellay</a>
+        <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end has-text-centered">
+          
+            
+              
+                <a class="navbar-item" href='https:&#x2F;&#x2F;www.zachbellay.com&#x2F;'>
+                  Home
+                </a>
+              
+                <a class="navbar-item" href='https:&#x2F;&#x2F;www.zachbellay.com&#x2F;projects'>
+                  Projects
+                </a>
+              
+                <a class="navbar-item" href='https:&#x2F;&#x2F;www.zachbellay.com&#x2F;posts'>
+                  Blog
+                </a>
+              
+                <a class="navbar-item" href='https:&#x2F;&#x2F;www.zachbellay.com&#x2F;resume'>
+                  Resume
+                </a>
+              
+            
+          
+            
+          
+            
+          
+          <a class="navbar-item" id="nav-search" title="Search" data-target="#search-modal">
+            <span class="icon">
+              <i class="fas fa-search"></i>
+            </span>
+          </a>
+          <a class="navbar-item" id="dark-mode" title="Switch to dark theme">
+            <span class="icon">
+              <i class="fas fa-adjust"></i>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  
+  
+  
+  
+
+  
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-8 is-offset-2 text">
+        <article class="box">
+          <h1 class="title is-1 has-text-centered">
+            Doxxing for Good
+          </h1>
+          <p class="subtitle"></p>
+          <div class="has-text-centered">
+            <strong>tl;dr: </strong>  
+            I found an unsecure webcam online, and called the guy to turn it off, and he did.
+          </div>
+          <div class="columns is-multiline is-gapless">
+            <div class="content mt-2">
+              <h1 id="the-story">The Story</h1>
+<p>I was watching Zack Freedman on YouTube, an up and coming hardware hacker. He mentioned Shodan, which apparently is a directory of devices accessible via internet. They include industrial controllers, webcams, databases, and video games, purportedly. I checked it out and couldn't find any live streams, which reminded me of a site I have visited before insecam.org. So I went there and I browsed around a bit and found a stream of a man sitting as his computer in what the webcam labeled &quot;OFFICE&quot;. </p>
+<p>Before I came across this stream, I saw other streams with people. For example, I saw a stream of a casino in San Diego where some people were at slot machines. In another, I saw a man setting up what the webcam labeled &quot;Big Grow Tent&quot; in Arizona, which he eventually panned over to marijuana growing inside one of those highly reflective plastic lined grow tents. I saw another stream where people were eating outside at what seemed to be a resort in Colorado under partial construction. These were all in public places though where the Supreme Court would say they cannot have a reasonable expectation of privacy. So it felt ok. Sort of like people watching in a park, except they're 500-1000 miles away and can't see you. But anyways, continuining on.</p>
+<p>With the stream of the man in the &quot;OFFICE&quot; it didn't really seem like an office. There was a 3D printer and another desk with a blanket across the chair, which was probably most likely this man's significant other. This didn't exactly seem like an office of a business. It irked me that this guy, who was probably just browsing the internet, could be surveilled by some complete stranger hundreds of miles away from him, in what seemed to be his home office. So I ended up basically doxxing this guy. I was able to figure out his name by visiting port 80 of the IP address from the camera stream. On that page, there was a link to a domain that was the man's full name dot com. So from there I was off to the races basically just using Whitepages and the like to get a phone number to call the guy. After a couple of these websites, I called the number that it listed.</p>
+<img src="https:&#x2F;&#x2F;zbellay.sfo3.cdn.digitaloceanspaces.com&#x2F;assets&#x2F;images&#x2F;posts&#x2F;d4g.png">
+<p>The weirdest part was watching him pick up the phone as I called to inform him that his office webcam was completely exposed to the public. I think he was a little shocked and probably scared, so the conversation was awkward and breif, but I watched him disable the live stream, which is no longer accessible. A few minutes later he texted me asking me how I knew all this, and I gave him all of the relevant information. </p>
+<h1 id="final-thoughts">Final Thoughts</h1>
+<p>There are a few takeaways from this experience:</p>
+<ol>
+<li>Don't put webcams in your home. Just don't.</li>
+<li>IoT and the like continue to prove to threaten the privacy of people. Even if you're technically savvy. The guy in this story had a 3D printer in his office, which I would argue is technically savvier than most people. </li>
+<li>There is tons of information about us online. I found this guy's cell # and address via all publically accessible online resources. This is scary.</li>
+</ol>
+<p>I feel conflicted about this experience. Because in order to preserve this man's privacy, I had to invade it further via probing into his identity. Ultimately, the ends probably justify the means, but still, I would feel pretty scared if I got a phone call out of the blue while I was watching YouTube videos that I was being watched.</p>
+<p>Edit (3/11/21): Photo blurred for privacy concerns.</p>
+
+            </div>
+            <div class="column is-8">
+              
+  <p class="has-text-grey">
+    <span class="icon">
+      <i class="fas fa-user"></i>
+    </span>
+    Zach Bellay published on
+    <span class="icon">
+      <i class="far fa-calendar-alt"></i>
+    </span>
+    <time datetime='2021-03-06'>March 06, 2021</time>
+  </p>
+
+            </div>
+            <div class="column is-4 has-text-right-desktop">
+              
+  <p class="has-text-grey">
+    <span class="icon">
+      <i class="far fa-clock"></i>
+    </span>
+    4 min,
+    <span class="icon">
+      <i class="fas fa-pencil-alt"></i>
+    </span>
+    626 words
+  </p>
+
+            </div>
+            <div class="column">
+              
+            </div>
+            <div class="column has-text-right-desktop">
+              
+            </div>
+          </div>
+        </article>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+  
+
+  
+  <section class="modal" id="search-modal">
+    <div class="modal-background"></div>
+    <div class="modal-content">
+      <div class="field">
+        <p class="control has-icons-right">
+          <input class="input" id="search" placeholder="Search this website." type="search" />
+          <span class="icon is-small is-right">
+            <i class="fas fa-search"></i>
+          </span>
+        </p>
+      </div>
+      <div class="search-results">
+        <div class="search-results__items"></div>
+      </div>
+    </div>
+    <button aria-label="close" class="modal-close is-large"></button>
+  </section>
+  
+
+
+  
+
+
+
+  
+
+
+
+  
+  <footer class="py-4 has-background-light">
+    <p class="has-text-centered">
+      Built with
+      <span class="icon is-small">
+        <i class="fas fa-code fa-xs"></i>
+      </span>
+      code and
+      <span class="icon is-small">
+        <i class="fas fa-heart fa-xs"></i>
+      </span>
+      love <br /> Powered By
+      <span class="icon is-small">
+        <i class="fas fa-power-off fa-xs"></i>
+      </span>
+      Zola
+    </p>
+  </footer>
+  
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sharer.js@latest/sharer.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/galleria.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1/dist/chart.xkcd.min.js"></script>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.6.1/themes/folio/galleria.folio.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/elasticlunr/0.9.6/elasticlunr.min.js"></script>
+  <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
+  <script src='https:&#x2F;&#x2F;www.zachbellay.com&#x2F;search_index.en.js'></script>
+  <script src='https:&#x2F;&#x2F;www.zachbellay.com&#x2F;js&#x2F;site.js'></script>
+
+  
+
+
+
+
+</body>
+
+</html>

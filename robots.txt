@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.zachbellay.com/sitemap.xml
