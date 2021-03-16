@@ -1,0 +1,98 @@
+{% extends 'base.html' %}
+{% block title %}
+  {{ config.title }} | {{ section.title }}
+{% endblock title %}
+{% block header %}
+  <header class="hero">
+    <div class="hero-body pb-0">
+      <div class="container">
+        <div class="has-text-centered">
+          <h1 class="title is-1">{{ section.title }}</h1>
+          <p class="subtitle" style="margin-bottom: 0.5rem;">{{ section.description }}</p>
+          <div class="has-text-centered">
+            Done - ✅ | In Progress - 🚧 | Cancelled - ❌
+            <div></div>
+          </div>
+        </div>
+      </header>
+    {% endblock %}
+    {% block content %}
+      <section class="section">
+        <div class="container">
+          <div class="columns is-centered">
+            <div class="column is-centered is-9">
+              {% if paginator %}
+                {% set pages = paginator.pages %}
+              {% else %}
+                {% set pages = section.pages %}
+              {% endif %}
+              {% for page in pages %}
+                {% if loop.index0 is even %}
+                  <div class="columns is-centered">
+                  {% endif %}
+                  <div class="column is-half ">
+                    <div class="has-text-centered">
+                      <div class="content">
+                        <a href={{ page.permalink }}>
+                          <div class="title is-size-4">{{ page.title }}</div>
+                          <div class="subtitle">
+                            {% if page.extra.status %}
+                              Status:
+                              {% if page.extra.status == 'Done' %}
+                                ✅
+                              {% elif page.extra.status == 'In Progress' %}
+                                🚧
+                              {% elif page.extra.status == 'Cancelled' %}
+                                ❌
+                              {% endif %}
+                            {% else %}
+                              <wbr/>
+                            {% endif %}
+                          </div>
+                          <img src="{{ config.extra.cdn_base_url }}{{ page.extra.thumbnail }}"/>
+                        </a>
+                        <div>
+                          <div class="has-text-centered" style="padding: 0.5em;">
+                            <a href={{ page.permalink }}>
+                              Project Page
+                            </a>
+                            {% if page.extra.liveSite %}
+                              <span>
+                                ·
+                              </span>
+                              <a href={{ page.extra.liveSite }}>
+                                Visit site
+                              </a>
+                            {% endif %}
+                            {% if page.extra.source %}
+                              <span>
+                                ·
+                              </span>
+                              <a href={{ page.extra.source }}>
+                                Source
+                              </a>
+                            {% endif %}
+                          </div>
+                          {% if page.extra.description %}
+                            <div style="padding:0.25em;">{{ page.extra.description }}</div>
+                          {% endif %}
+                          {% if page.extra.tools %}
+                            <div style="padding:0.25em;">
+                              {% for item in page.extra.tools %}
+                                <span class="tag">{{ item }}</span>
+                              {% endfor %}
+                            </div>
+                          {% endif %}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  {% if loop.index0 is odd %}
+                  </div>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </section>
+    {% endblock %}
