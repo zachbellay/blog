@@ -1,9 +1,9 @@
 +++
 title="Simple Budgeting App"
-date=2021-03-06
-extra.thumbnail="/assets/images/projects/example/example2.jpg"
+date=2021-03-14
+extra.thumbnail="/assets/images/projects/budgeting-app/budgeting-app-thumbnail.jpg"
 extra.source="https://github.com/zachbellay/react-simple-budgeting-app"
-extra.liveSite="https://www.scu-course-evals.com/"
+extra.liveSite="https://budget.zachbellay.com/"
 extra.status="Done"
 extra.description="A simple budgeting app to estimate your monthly expenditures based on your income."
 extra.tools=["React", "Material UI", "Taxee Tax Statistics"]

@@ -49,7 +49,7 @@
                               <wbr/>
                             {% endif %}
                           </div>
-                          <img src="{{ config.extra.cdn_base_url }}{{ page.extra.thumbnail }}" style="max-height: 20em;"/>
+                          <img src="{{ config.extra.cdn_base_url }}{{ page.extra.thumbnail }}"/>
                         </a>
                         <div>
                           <div class="has-text-centered" style="padding: 0.5em;">
@@ -73,7 +73,7 @@
                               </a>
                             {% endif %}
                           </div>
-                          {% if page.description %}
+                          {% if page.extra.description %}
                             <div style="padding:0.25em;">{{ page.extra.description }}</div>
                           {% endif %}
                           {% if page.extra.tools %}
