@@ -9,14 +9,21 @@ extra.description="A simple budgeting app to estimate your monthly expenditures 
 extra.tools=["React", "Material UI", "Taxee Tax Statistics"]
 +++
 
+[{{ img(path="/assets/images/projects/budgeting-app/budgeting-app-thumbnail.jpg") }}](https://budget.zachbellay.com/)
 
+You can find this project at [budget.zachbellay.com](https://budget.zachbellay.com/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pretium neque et sapien posuere tincidunt. Suspendisse id tristique lectus. Integer vitae odio ac nisi semper rhoncus sed semper elit. Sed sit amet odio posuere, bibendum risus ut, imperdiet lorem. Pellentesque quis hendrerit erat, eget tincidunt sem. Suspendisse potenti. Sed id commodo massa. Curabitur id mattis leo, non auctor velit. Duis blandit fermentum molestie. In rhoncus viverra lobortis. Mauris luctus ex sit amet turpis bibendum, sit amet dignissim leo commodo. Nulla eu enim mi. Proin commodo mi massa, vel hendrerit dui molestie eu. Nulla sapien erat, mollis eget gravida eget, porta a risus.
+Source is available on [GitHub](https://github.com/zachbellay/react-simple-budgeting-app).
 
-Curabitur sagittis purus libero, id facilisis lorem maximus vel. Nullam accumsan venenatis eros a blandit. In nec viverra sapien. Curabitur maximus velit et eleifend ornare. Donec et sapien in diam gravida interdum. Praesent lectus arcu, consequat ac maximus sed, accumsan ut mi. Integer fringilla felis et turpis auctor sagittis. Ut imperdiet lorem sit amet lorem interdum dignissim. Integer dui enim, finibus eget lorem eget, pellentesque pretium sem. Pellentesque malesuada, nibh vitae consectetur vestibulum, quam elit laoreet purus, a mollis tortor est at metus. In vitae porta odio.
+## What is "Simple Budgeting App"?
 
-Donec nec facilisis sem. Integer id nulla rutrum sem dignissim convallis et ut est. Mauris ac magna massa. Nunc pretium, nisl quis commodo tincidunt, purus urna scelerisque mi, id elementum velit orci id nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi quis auctor dui, in interdum dui. Vivamus lacinia est lectus, eu hendrerit odio tincidunt a. Praesent rutrum semper erat eu viverra. Nullam arcu quam, fermentum sed consequat et, mattis interdum sem. Morbi tempus a diam ut congue.
+This webpage is a calculator to get an idea of how much money you can afford to spend on certain things. For example, a rule of thumb is to spend no more than 30% of your income on rent (ideally). This would be easy, if you knew exactly how much you make after taxes and then multiply that by 0.3. Fortunately, this  calculates the state and federal tax that will be withheld from your paycheck and adjust your income accordingly. 
 
-Etiam varius ipsum eu interdum laoreet. Duis convallis faucibus commodo. Nunc pretium faucibus est, non elementum sapien iaculis id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis ornare risus nec erat dapibus dictum. Mauris non diam id urna tempor viverra eget eu ante. Pellentesque feugiat enim ut condimentum aliquam. Aenean porttitor ac sem in gravida. Sed sagittis mauris nec massa faucibus, nec dignissim quam ornare. Vestibulum eget interdum massa. Suspendisse et ex neque. Sed quis erat ipsum. Pellentesque luctus pretium augue malesuada tincidunt. In imperdiet, est quis suscipit hendrerit, mauris neque lobortis erat, ut interdum mi mi eu enim. Curabitur id odio odio.
+## What I Learned
+- How tax brackets work and marginal tax rate
+- Basics of React.js + Material UI 
+    - Dark Mode is easy with Material UI!
+- A better handle on single page applications
 
-Nunc id nisi neque. Fusce vestibulum sodales massa, ut consectetur elit sagittis at. Ut quam mauris, consequat ac ligula nec, ultrices tincidunt ante. Etiam dictum ut nibh id sollicitudin. Integer vestibulum leo magna, quis volutpat nibh ornare porta. Maecenas id rhoncus tellus. Nulla enim ex, venenatis sed ex et, pharetra blandit urna. Sed maximus magna urna, eu eleifend diam dignissim vel. Curabitur lacus sapien, pellentesque at purus vitae, faucibus gravida mauris. Phasellus efficitur nibh vitae massa sollicitudin finibus. 
+## Final Notes
+This was a good project for me because I got a better understanding of single page applications. I am generally more familiar with server side rendered applications, such as in PHP or Flask + Jinja templates. The best part of this was that I actually use this webpage whenever I am doing napkin math budgeting. The most helpful has been in figuring out how close I am to spending 30% of my income on rent. But it has also been good in helping me figure out whether or not I really can afford whatever shiny new toy happens to catch my eye.
