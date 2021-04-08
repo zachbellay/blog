@@ -12,7 +12,7 @@ Before I came across this stream, I saw other streams with people. For example, 
 
 With the stream of the man in the "OFFICE" it didn't really seem like an office. There was a 3D printer and another desk with a blanket across the chair, which was probably most likely this man's significant other. This didn't exactly seem like an office of a business. It irked me that this guy, who was probably just browsing the internet, could be surveilled by some complete stranger hundreds of miles away from him, in what seemed to be his home office. So I ended up basically doxxing this guy. I was able to figure out his name by visiting port 80 of the IP address from the camera stream. On that page, there was a link to a domain that was the man's full name dot com. So from there I was off to the races basically just using Whitepages and the like to get a phone number to call the guy. After a couple of these websites, I called the number that it listed.
 
-{{ img(path="/assets/images/posts/d4g.png") }}
+{{ img(path="/assets/images/posts/doxxing-for-good/d4g.png") }}
 
 The weirdest part was watching him pick up the phone as I called to inform him that his office webcam was completely exposed to the public. I think he was a little shocked and probably scared, so the conversation was awkward and breif, but I watched him disable the live stream, which is no longer accessible. A few minutes later he texted me asking me how I knew all this, and I gave him all of the relevant information. 
 

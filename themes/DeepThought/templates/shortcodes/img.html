@@ -1,2 +1,20 @@
 {% set fullPath = config.extra.cdn_base_url ~ path %}
-<img src="{{fullPath}}">
+
+{% if width and center%}
+    <div class="columns is-centered">
+        <div class="column has-text-centered">
+            <img src="{{fullPath}}" width="{{width}}">      
+        </div>
+    </div>
+    
+{% elif width and not center%}
+    <img src="{{fullPath}}" width="{{width}}">      
+{% elif not width and center%}
+    <div class="columns is-centered">
+        <div class="column has-text-centered is-2">
+            <img src="{{fullPath}}">      
+        </div>
+    </div>
+{%elif not width and not center%}
+    <img src="{{fullPath}}">    
+{% endif %}

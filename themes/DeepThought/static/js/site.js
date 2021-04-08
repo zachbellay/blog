@@ -240,7 +240,7 @@ $(document).ready(function () {
 
   $(".galleria").each(function (index) {
     $(this).attr("id", `galleria-${index}`);
-
+    
     var { images } = JSON.parse($(this).text());
 
     for (let image of images) {
