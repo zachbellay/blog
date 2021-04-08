@@ -12,13 +12,13 @@ Abby and I wanted to get away for a weekend, originally to Santa Barbara. After 
 
 We arrived at our first wine tasting reservation at the Buena Vista Winery in Sonoma. We were greeted by Brandon, a tall blonde man with short hair and tattoos on his arms. He seated us and shared the history of the Buena Vista Winery with us. I was startled to learn that we had selected the oldest winery in California, entirely by accident! 
 
-We started off with a sparking white wine, tried some white wines, and moved onto reds. Abby and I had a great time trying to discern the flavors in each wine. Some white were described as "buttery on the finish", whereas some reds were described to have a "rich flavor with essence of cherry, raspberry, and pepper". Neither of us have particularly sophisticated palate. We were just happy to be outdoors tasting wines while having each wine's description kindly explained to us, as if we *did* in fact know what to taste. 
+We started off with a sparking white wine, tried some white wines, and moved onto reds. Abby and I had a great time trying to discern the flavors in each wine. Some whites were described as "buttery on the finish", whereas some reds were described to have a "rich flavor with essence of cherry, raspberry, and pepper". Neither of us have particularly sophisticated palates. We were just happy to be outdoors tasting wines while having each wine's description kindly explained to us, as if we *did* in fact know what to taste. 
 
 Unfortunately, that morning I had not had breakfast, and went straight into drinking wine and eating charcuterie around noon. We were also sitting in the sun for almost two hours, and I felt uneasy and had a minor headache. Fortunately, Brandon generously offered a generic Excedrin (acetaminophen/aspirin/caffeine) and I started to feel a little better. 
 
 #### Rancho Maria Wines
 
-Our next stop was Rancho Maria, a comparatively smaller storefront in the downtown of Sonoma. We were seated  in a cozily furnished backyard and served whites, reds, and a rose. 
+Our next stop was Rancho Maria, a comparatively smaller storefront in the downtown of Sonoma. We were seated in a cozily furnished backyard and served whites, reds, and a rosé. 
 
 #### A Night on the Town
 
@@ -39,7 +39,7 @@ We started off our day with breakfast at the Cinnamon Bear Creekside Inn. We wer
 
 We headed to Jack London State Park for a hike. We paid the $10 use fee and walked up to the map at the trail head. A man was volunteering and told us all about where we could go to suit our ~6 mile hike we were looking for. 
 
-On our hike, we saw sprawling vineyards and a forest of Eucalyptus trees going in rows. We were enveloped in a forest with both evergreen and deciduous trees, which is something neither of us has experienced. Usually it was one type or the other. Some sections were very steep, and some narrow, but the views of the Sonoma Valley were beautiful. At the top of the hill, there were some cows on a large pasture hanging out under a tree for shade. The meadows at the top of the hill were particularly pleasant, and made for a good rest stop while we appreciated the views. On our way down we stopped at the Ancient Redwood, which was the first large redwood I've seen in my life. It is apparently 1800-2000 years old and 14 feet in diameter, and tall but does not tower over the canopy. 
+On our hike, we saw sprawling vineyards and a forest of Eucalyptus trees grown in rows. We were enveloped in a forest with both evergreen and deciduous trees, which is something neither of us has experienced. Usually it was one type or the other. Some sections were very steep, and some narrow, but the views of the Sonoma Valley were beautiful. At the top of the hill, there were some cows on a large pasture hanging out under a tree for shade. The meadows at the top of the hill were particularly pleasant, and made for a good rest stop while we appreciated the views. On our way down we stopped at the Ancient Redwood, which was the first large redwood I've seen in my life. It is apparently 1800-2000 years old and 14 feet in diameter, and tall but does not tower over the canopy. 
 
 
 <div class="columns is-centered">
@@ -55,7 +55,7 @@ On our hike, we saw sprawling vineyards and a forest of Eucalyptus trees going i
 
 Our hike came out to 9 miles, more than I bargained for. Nonetheless, I was proud of myself for being able to handle a hike of such length when even 6 miles seemed like a lot to me.
 
-Afterwards we went down to the town at the foot of Jack London State Park, Glen Ellen. We looked for restaurants but settled on the Glen Ellen Village Market, a local grocery store. It was arguably the nicest grocery store we've been in. They offered wines, with lots of cheese and crackers and other foods that would pair well on a charcuterie board. I was also surprised to see that in their liquor section the shelving was made out of a dark wood and there were two rolling ladders to reach further up on the shelves. We got paninis from the deli, a red velvet cupcake, two plums, La Croixs, and a single canned champagne. We went out back and enjoyed our post hike feast while I occasionally threatened scoop up one of the lizards in the garden into my pocket.
+Afterwards we went down to the town at the foot of Jack London State Park, Glen Ellen. We looked for restaurants but settled on the Glen Ellen Village Market, a local grocery store. It was arguably the nicest grocery store we've been in. They offered wines, with lots of cheese and crackers and other foods that would pair well on a charcuterie board. I was also surprised to see that in their liquor section the shelving was made out of a dark wood and there were two rolling ladders to reach further up on the shelves. We got paninis from the deli, a red velvet cupcake, two plums, La Croixs, and a single canned champagne. We went out back and enjoyed our post hike feast while I occasionally threatened to scoop up one of the lizards in the garden into my pocket.
 
 #### Pangloss Cellars
 
@@ -66,7 +66,7 @@ Our server educated us about the different use of wider and narrower wine glasse
 {{ img(path="/assets/images/posts/weekend-in-wine-country/wine-glass-1.jpeg", width="420px") }}
 {{ img(path="/assets/images/posts/weekend-in-wine-country/wine-glass-2.jpeg", width="420px") }}
 
-We complied assuming this was some sort of ruse but I was blown away to find that the shape of the wine glass actually significantly changed the bitterness of the wines. Maybe I was just getting more drunk and my palate was acclimating to the bitterness of the wines, but I still ended up sipping wines out of the narrower glass for the rest of out tasting. 
+We complied assuming this was some sort of ruse but I was blown away to find that the shape of the wine glass actually significantly changed the bitterness of the wines. Maybe I was just getting more drunk and my palate was acclimating to the bitterness of the wines, but I still ended up sipping wines out of the narrower glass for the rest of our tasting. 
 
 We ended our wine tasting at Pangloss with our server telling us about how he is also a beekeeper, and earlier in the day he was "smashing bees into a box" to transfer bees into a new home, and showed us a video. It was crazy, and really cool! 
 
