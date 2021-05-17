@@ -13,3 +13,11 @@ ffmpeg -y -i Omnibot\ v40-cropped.mp4 -vf "scale=800:450" -f image2pipe -vcodec 
 ```
 
 source: https://superuser.com/a/1061409
+
+```sh
+sed 's/base_url\ =\ \"https:\/\/www.zachbellay.com\"/base_url\ =\ \"https:\/\/www.develop.zachbellay.com\"/g' config.toml >> config.toml
+```
+
+source: https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/
+
+I hope this works lol, this is in the build step in netlify
