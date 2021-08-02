@@ -5,10 +5,9 @@ title = "Zach Bellay"
 theme="DeepThought"
 default_language = "en"
 
-languages = [
-    {code = "jp"},
-    {code = "es"},
-]
+[languages.en]
+[languages.jp]
+[languages.es]
 
 taxonomies = [
 	{ name = "categories", feed = true, paginate_by = 10 },

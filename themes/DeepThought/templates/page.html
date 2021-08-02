@@ -15,11 +15,11 @@
           </h1>
           <p class="subtitle">{{ page.description }}</p>
           <div class="has-text-centered">
-            <strong>tl;dr: </strong>  
+            <strong>tl;dr: </strong>
             {{page.extra.tldr}}
           </div>
           <div class="columns is-multiline is-gapless">
-            <div class="content mt-2">
+            <div class="content mt-2" style="max-width: 100%;">
               {{ page.content | safe }}
             </div>
             <div class="column is-8">
