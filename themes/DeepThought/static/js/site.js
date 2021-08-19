@@ -240,7 +240,7 @@ $(document).ready(function () {
 
   $(".galleria").each(function (index) {
     $(this).attr("id", `galleria-${index}`);
-    
+
     var { images } = JSON.parse($(this).text());
 
     for (let image of images) {
@@ -252,43 +252,43 @@ $(document).ready(function () {
     Galleria.run(`.galleria`);
   });
 
-  $(".resume").each(function(index){
-    
-    var window_width = $(window).width();    
+  $(".resume").each(function (index) {
+
+    var window_width = $(window).width();
     var url = $(this).text();  // passed in via the shortcode param
 
     // Loaded via <script> tag, create shortcut to access PDF.js exports.
     var pdfjsLib = window['pdfjs-dist/build/pdf'];
-  
+
     // The workerSrc property shall be specified.
     pdfjsLib.GlobalWorkerOptions.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
-  
+
     // Asynchronous download of PDF
     var loadingTask = pdfjsLib.getDocument(url);
-    loadingTask.promise.then(function(pdf) {
+    loadingTask.promise.then(function (pdf) {
       console.log('PDF loaded');
-      
+
       // Fetch the first page
       var pageNumber = 1;
-      pdf.getPage(pageNumber).then(function(page) {
+      pdf.getPage(pageNumber).then(function (page) {
         var viewport = page.getViewport(1);
 
         // 768px is the media query size for breaking to mobile in the scss file
         // 1.25 allows a little padding when viewing in desktop
         // 0.90 removes padding and zooms into the resume when viewed on mobile
 
-        var desiredWidth = $(window).width()/((window_width > 768) ? 1.25 : 0.90);
+        var desiredWidth = $(window).width() / ((window_width > 768) ? 1.25 : 0.90);
         var viewport = page.getViewport({ scale: 1, });
-        
+
         var scale = desiredWidth / viewport.width;
         var scaledViewport = page.getViewport({ scale: scale, });
-          
+
         // Prepare canvas using PDF page dimensions
         var canvas = document.getElementById('resume-canvas');
         var context = canvas.getContext('2d');
         canvas.height = scaledViewport.height;
         canvas.width = scaledViewport.width;
-  
+
         // Render PDF page into canvas context
         var renderContext = {
           canvasContext: context,
@@ -355,7 +355,7 @@ var coll = document.getElementsByClassName("collapsible");
 var i;
 
 for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
+  coll[i].addEventListener("click", function () {
     this.classList.toggle("active");
     var content = this.nextElementSibling;
     if (content.style.display === "block") {
@@ -365,3 +365,4 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+

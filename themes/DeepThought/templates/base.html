@@ -39,8 +39,6 @@
     {% endblock title %}
   </title>
 
-  <script crossorigin="anonymous" src="https://kit.fontawesome.com/201b8d5e05.js"></script>
-
   {% if config.extra.katex.enabled %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
     integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
@@ -201,7 +199,8 @@
   <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
   <script src='{{ get_url(path='search_index.en.js') }}'></script>
   <script src='{{ get_url(path='js/site.js') }}'></script>
-
+  <script src='{{ get_url(path='js/font-awesome.js') }}'></script>
+  
   {% block custom_js %}
   {% endblock %}
 </body>
