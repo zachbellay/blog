@@ -1,13 +1,16 @@
 # The URL the site will be built for
 base_url = "https://www.zachbellay.com"
-title = "Zach Bellay"
+#title = "Zach Bellay"
 
 theme="DeepThought"
 default_language = "en"
 
 [languages.en]
+title = "Zach Bellay"
 [languages.jp]
+title = "Zach Bellay"
 [languages.es]
+title = "Zach Bellay"
 
 taxonomies = [
 	{ name = "categories", feed = true, paginate_by = 10 },
