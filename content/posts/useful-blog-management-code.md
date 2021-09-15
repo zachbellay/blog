@@ -8,16 +8,10 @@ extra.tldr="Code for me to use to not have to look stuff up on Stack Overflow wh
 
 # Convert MOV to Gif, Get good speed and optimize file size. Takes some time
 
+**Note:** This seems to actually increase file size sometimes!
+
 ```sh
 ffmpeg -y -i Omnibot\ v40-cropped.mp4 -vf "scale=800:450" -f image2pipe -vcodec ppm - | convert -delay 2 -loop 0 -layers Optimize - gif:- | gifsicle -d 3 -O3 -o optimized.gif
 ```
 
 source: https://superuser.com/a/1061409
-
-```sh
-sed 's/base_url\ =\ \"https:\/\/www.zachbellay.com\"/base_url\ =\ \"https:\/\/www.develop.zachbellay.com\"/g' config.toml >> config.toml
-```
-
-source: https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/
-
-I hope this works lol, this is in the build step in netlify
