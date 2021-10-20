@@ -33,7 +33,7 @@ With feedback from friends excited for the concept, I was hoping for the site to
 
 {{ img(path="/assets/images/projects/scu-course-evals/search-example.jpg") }}
 
-As of this writing (3/16/2021), 295 unique users have logged in to view the site (there are likely slightly more because I cleared the user table a while back). Some users are friends, one is a professor (who viewed their own rating and then logged off!), and many are people who I don't know. 
+As of this writing (3/16/2021), 400+ unique users have logged in to view the site (there are likely slightly more because I cleared the user table a while back). Some users are friends, one is a professor (who viewed their own rating and then logged off!), and many are people who I don't know. 
 
 Since the website launched, no new evaluations have been posted for me to scrape and incorporate into the dataset. So the website is a little stale because only information up to Fall 2019 is included. I'm not sure if this is a reaction to this site, or COVID, or just a coincidence. But because of this, the docker container that hosts the website has now been up and untouched for 12 months, which seems like a pretty big achievement to me (aside from the neglect and potential security risks).
 
