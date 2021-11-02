@@ -30,6 +30,16 @@
   <link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
   <link href='{{ get_url(path='site.css') }}' rel="stylesheet" />
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-36M3CV48TT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-36M3CV48TT');
+  </script>
+
   {% block custom_css %}
   {% endblock %}
 
