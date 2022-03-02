@@ -218,8 +218,4 @@ Here, I decided to get a little crazy and taped a knife to the robot and had it 
 
 {{video(path="/assets/images/projects/odaf/9.mp4")}}
 
-
-
-<!-- {{ img(path="/assets/images/posts/weekend-in-wine-country/hike-top-view.jpeg", width="420px") }} -->
-
 <!-- This process lends itself to having to reverse engineer how I built or designed something because I forgot how I did it, and I didn't do a great job of keeping records (or for in the case of my PCB, lost files). This -->

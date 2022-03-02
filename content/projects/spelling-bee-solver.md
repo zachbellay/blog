@@ -60,8 +60,12 @@ extra.tools=["React Native", "Expo", "TypeScript"]
 
 <div class="columns is-centered">
     <div class="column has-text-centered" style="padding-left: 10em; padding-right: 10em;">
-        <h2>
+        <h2 style="text-decoration:line-through">
         Download on the Apple App Store now!
         </h2>
+        <h3>
+            No longer available! The app wasn't that good, and I didn't want to pay the $100 developer fee to renew my Apple developer account. Looks like you'll have to solve it on your own!!
+        </h3>
     </div>
 </div>
+
