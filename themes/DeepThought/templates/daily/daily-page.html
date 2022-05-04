@@ -13,6 +13,12 @@
           <h1 class="title is-1 has-text-centered">
             {{ page.title }}
           </h1>
+          {% if page.extra.tldr %}
+            <div class="has-text-centered">
+              <strong>tl;dr: </strong>
+              {{page.extra.tldr}}
+            </div>
+          {% endif %}
           <p class="subtitle has-text-centered">{{ page.description }}</p>
           <div class="columns is-multiline is-gapless">
             <div class="content mt-2">
