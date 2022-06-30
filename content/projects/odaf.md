@@ -137,6 +137,8 @@ And after some time, I was able to laser cut the acrylic for the newly designed 
 
 At this point in my life, I had just graduated with my BS in Computer Science & Engineering. I was going into my 2nd summer internship at Ford Motors, and in the fall would start my 2nd year of my 5 year BS/MS program at SCU. Here I let the project sit for another 3 months before I bothered touching it again.
 
+
+# Grad School and Beyond
 ## Iteration 3, Phase 2 - Wiring the Electronics
 **Fifth Year (Grad School) and Beyond**: *June 2019-September 2020*
 
@@ -219,3 +221,144 @@ Here, I decided to get a little crazy and taped a knife to the robot and had it 
 {{video(path="/assets/images/projects/odaf/9.mp4")}}
 
 <!-- This process lends itself to having to reverse engineer how I built or designed something because I forgot how I did it, and I didn't do a great job of keeping records (or for in the case of my PCB, lost files). This -->
+
+## Iteration 3, Phase 4 - Crime and Punishment
+
+*August 2021* - **California Street Glitter**
+
+I had built a pretty cool UI for visualizing the distances that the ultrasonic sensors were reading using konva.js and react. Unfortunately though, I never pushed this code to Github and I lost the code forever when my girlfriend's car was broken into and my backpack was stolen. In the heat of the moment I saw the crime taking place and chased after the criminal, but they got away in their car. In hindsight, that was obviously a bad idea as I could have easily been shot in the face. So next time something like that happens I am really going to have to keep a lid on my primal instincts of wanting to fight.
+
+Luckily my renter's insurance covered $1500 of the ~$2500 that I lost in that incident, so that helped make it a little less painful. Still, being a victim of a crime like that is never fun and always feels violating and infuriating. But, overall I am happy to just be able to continue about my life as if nothing happened aside from the inconvenience of having to buy a bunch of new stuff to replace my old things.
+
+*February 2022* - **A Day on the Town**
+
+Finally the time had come to actually get a goldfish! I bought Jeff at a pet store in Chinatown in San Francisco. While we were out, I got pretty hungry so I stopped by Hunan House on Washington St. I ordered Szechuan Cold Ramen and Jalapeno with Preserved Eggs.
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-2"></div>
+    <div class="column is-4 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/29.jpg") }}
+    </div>
+    <div class="column is-4 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/30.jpg") }}
+    </div>
+    <div class="column is-2"></div>
+    <div class="column is-2"></div>
+    <div class="column is-4 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/31.jpg") }}
+    </div>
+    <div class="column is-4 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/32.jpg") }}
+    </div>
+    <div class="column is-2"></div>
+</div>
+
+I've never had preserved eggs but I was feeling adventurous. It was definitely off putting because the eggs white were black, but when I ate it it just tasted like a normal egg. The only difference was that the egg was more firm. If you get a chance to go here, I would highly recommend it! I love Chinatown because the food is amazing and then when the bill comes you're pleasantly surprised by how cheap it is!
+
+After lunch, I was feeling pretty good and figured Jeff might need some pictures for his Hinge profile. So we went on a bit of a photo shoot around the city.
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/33.jpg") }}
+    </div>
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/34.jpg") }}
+    </div>
+</div>
+
+Jeff and I get a good look at the Transamerica Pyramid in the Financial District.
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-2"></div>
+    <div class="column is-4 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/35.jpg") }}
+    </div>
+    <div class="column is-4 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/36.jpg") }}
+    </div>
+    <div class="column is-2"></div>
+</div>
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-2"></div>
+    <div class="column is-4 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/37.jpg") }}
+    </div>
+    <div class="column is-4 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/38.jpg") }}
+    </div>
+    <div class="column is-2"></div>
+</div>
+
+Jeff and I check out Grace Cathedral.
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/39.jpg") }}
+    </div>
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/40.jpg") }}
+    </div>
+</div>
+
+Jeff's Miata get's a parking ticket :( Say goodbye to $107.
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-6 has-text-centered">
+        {{ video(path="/assets/images/projects/odaf/14.mp4") }}
+    </div>
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/41.jpg") }}
+    </div>
+</div>
+
+Jeff goes for a swim at the local fountain. Afterwards, he comes across potential new decor, but ultimately decides against it.
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/42.jpg") }}
+    </div>
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/43.jpg") }}
+    </div>
+</div>
+
+Jeff willfully trespasses and breaks the law. You can't stop this rebel.
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column">
+        {{ img(path="/assets/images/projects/odaf/44.jpg") }}
+    </div>
+</div>
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/46.jpg") }}
+    </div>
+    <div class="column is-6 has-text-centered">
+        {{ img(path="/assets/images/projects/odaf/45.jpg") }}
+    </div>
+</div>
+
+Jeff gets home and takes a load off.
+
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-6">
+        {{ video(path="/assets/images/projects/odaf/15.mp4") }}
+    </div>
+</div>
+
+I attempt to film Jeff getting in his new tank, but can't do it with one hand.
+
+<div class="columns is-centered is-multiline is-flex is-vcentered">
+    <div class="column is-6">
+        {{ video(path="/assets/images/projects/odaf/16.mp4") }}
+    </div>
+</div>
+
+I give an update on the project, and Jeff...
+
+*June 2022* - **Taking a Break**
+
+Jeff's death definitely took the wind out of my sails. I was also at a stage where I was starting to experience some pretty severe burnout and depression from lack of fulfillment at work and getting constantly rejected in job interviews. I took a break from this project to focus on myself and taking care of my mental health. I hope to make more progress, but I also have other things that I am interested in working on. So for the forseeable future, I will be postponing this project until I finish/accomplish some other projects/tasks.
