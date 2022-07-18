@@ -41,7 +41,8 @@ navbar_items = [
   { url = "$BASE_URL/projects", name = "Projects" },
   { url = "$BASE_URL/posts", name = "Blog" },
   { url = "$BASE_URL/daily", name = "Daily Blog" },
-  { url = "$BASE_URL/resume", name = "Resume" }
+  { url = "$BASE_URL/resume", name = "Resume" },
+  { url = "$BASE_URL/trash", name = "Trash" }
  ]},
  { code = "jp", nav_items = [
   { url = "$BASE_URL/", name = "ホームページ" },
