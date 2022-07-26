@@ -1,0 +1,66 @@
++++
+title="My Mental Health Journey"
+date=2022-07-26
+extra.tldr=""
++++
+_Written: 2022/05/17_
+
+
+Mental health is something that is hard to talk about to your family, friends, significant other. It's even more difficult to even admit to yourself that you have mental health issues. No one wants to believe that they are struggling through life. We are taught that we should be able to power through the difficulties that life throws at us. How else are you supposed to survive? From a young age we go to schools and are given assignments, are challenged socially by our peers and teachers, navigate our home and family lives and the inherent difficulties that come with that. No one's life is easy no matter what it may seem like from the outside. But sometimes the fire that has kept you going becomes choked for oxygen, and it feels like the fire inside you is dying. For me my job started to cause me mental health issues because I felt like I was not having fulfilling work that was interesting to me. I felt like what used to be an exciting opportunity was now becoming a squandered existence solely for the sake of subsisting to pay the bills. Additionally, where I grew up I was conditioned to believe that the most important thing is money and status. This meant that I needed to make more money and have a more prestigious job so that I could stay ahead. I was in a particularly vulnerable place when I spent months interviewing and could not find another job. This started to weigh severely on my ego, where my self-esteem and value was based on my recent accomplishments. 
+
+I found myself sometimes Googling "should I take antidepresants?" or "signs of depression" or "do I have depression quiz". But every time I did that or read the articles or took the quiz I told myself, well *my* case isn't that bad, so it's probably fine, I'll probably feel fine tomorrow. This can't affect *me*. Of course in hindsight it is obvious that this was basically my subconscious bubbling up and trying to tell me that there were deeper problems I needed to address.
+
+My problems also manifested in two particularly interesting ways. The first was that I developed an obsession with the movie American Psycho. So much so that I watched the movie about 10 times, would watch clips on YouTube, listen to podcasts analyzing the film, read blog posts, read Reddit posts, and read the book. I dressed up as Patrick Bateman for Halloween and was very enthusiastic about dressing up as him. It wasn't until much later that I finally figured out why I had become enamored with the movie. It was because Patrick Bateman, despite being the perfect exemplar of an American elite (i.e. white, looks like a Calvin Klein model, works in investment banking, lives in Manhattan, is tall, is a man, went to Harvard undergrad + Harvard business school, comes from a wealthy family), Patrick is deeply disturbed and dissatisfied with life. And on some sort of emotional and subconscious level, I could relate to him. I felt his pain, but I didn't know why. It wasn't until much later that I realized the reason I loved the movie so much was because of all of the themes in American Psycho that were being commented upon were things I was experiencing firsthand. Even though I wasn't an investment banker living in 1980's Manhattan, living in San Francisco in 2022 as a software engineer isn't all that different. 
+
+
+<!-- Privilege is not shared equally by all males. Those who most closely match an ideal masculine norm benefit the most from privilege. In Western patriarchal societies this ideal has been described as being 
+
+> "white, heterosexual, stoic, wealthy, strong, tough, competitive, and autonomous".
+
+ Men's studies scholars refer to this ideal masculine norm as hegemonic masculinity. While essentially all males benefit from privilege to some degree, those who visibly differ from the norm may not benefit fully in certain situations, especially in the company of other men that more closely match it.
+
+https://en.wikipedia.org/wiki/Male_privilege -->
+
+
+The culture of Silicon Valley is well known and made fun of in the TV show "Silicon Valley". People obsessing over their Blue Bottle coffee, talking about ISOs vs. NSOs, fawning over the newest Tesla, instantly upgrading to the next iPhone, posting their meticulously staged vacation photos to Instagram but pretending it was effortless, doing anything and everything to signal to other people that "look at me! I am important because I am able to purchase $X commodity/service/good!" The sad thing is that none of those things actually matter or will bring you real contentment. They will certainly bring a fleeting excitement that comes with purchasing a new toy. But that wears off pretty quickly despite how much money you often spend for that dopamine hit.
+
+ <!-- It's no wonder so many people turn to using drugs. How else are you supposed to get dopamine hits if you're not able to purchase things with money. Of course.  -->
+
+<!-- This characterization may even be a little too 2015. These days it's probably people caring about whether or not they get to keep working remotely, looking at levels.fyi and Blind to find salary information,  -->
+
+ I felt like I was part of a massive machine, whose sole purpose was profit. It felt as though any part of me that fell outside being useful to generating productivity should be shaved off and suppressed. In order to get myself to conform to the needs of this productivity behemoth, I found myself buying into the tech bro mentality of needing to increase my prestige and compensation. Thinking I wasn't making enough money because I knew I have peers who are making double what I make. Ultimately, American Psycho is about how American capitalism has turned human beings into replacable robots, whose sole purpose is to be a cog in the economic machine. You no longer have an identity as a human being, you are merely your occupation and position in the economic heirarchy. We see the sterile culture of 1980's yuppies focused solely on luxury brands and products to signal to their peers that they have status. The famous business card scene where Patrick Bateman nearly has a stroke because he sees a "superior" business card is extremely telling. It shows that in a world where conformity is severely enforced, even the most trivial differences (like the thickness of a business card) have outsize importance in expressing your personality. Which loosely translates to your social rank and therefore self value.
+ <!-- determining one's social rank, and therefore self value.  -->
+
+
+The second manifestation of what I began to recognize as a problem was seeking out anti-establishment opinions. Specifically, I became obsessed with the Unabomber Manifesto by Ted Kaczynski. While many dismiss his writings because of the means he used to publicize his work, I believe that many of the ideas he lays out in Industrial Society and its Future, are actually very keen observations about the society we find ourselves living in. And once I found myself agreeing with a convicted terrorist living out his days in supermax prision, I began to wonder, is this healthy? And while others may disagree, I think that ultimately agreeing with many of the points Ted Kaczynski had is completely acceptable, so long as it doesn't lead to me using violence to force change (which let me be clear, I have zero intention or desire to do so). Because the thing is, Ted Kaczynski actually makes a lot of points that most Americans would agree with. For example, he says
+
+> Imagine a society that subjects people to conditions that make them terribly unhappy, then gives them drugs to take away their unhappiness. Science fiction? It is already happening to some extent in our own society... Instead of removing the conditions that make people depressed, modern society gives them antidepresant drugs. In effect, antidepressants are a means of modifying an individual's internal state in such a away as to enable him to tolerate social conditions that he would otherwise find intolerable. 
+
+I started taking 150 mg of wellbutrin and 40 mg of prozac as well as attending weekly therapy sessions. I couldn't agree more with Kaczynski when I started taking these medications. I wondered was it me that was broken? Or was it society that was broken? Or both? I brought up this passage to my therapist and she agreed with me. Which confused me, but on the other hand made me feel heard, and not like a crazy person for thinking that needing drugs to cope with having a job seems insane. Ultimately though, she helped me realize it's really not as big a deal as I initially thought. I have come around to thinking, "so what?" when I take my pills. 
+
+Nonetheless, I still believe that depending on medication to psychologically function in society seems dystopian. It reminds me of soma from Brave New World, where people would consume the drug to escape from reality, pain, and would ultimately become complacent and docile. When in reality, the entire reason they were having to escape from anything in their lives was because the way they were living their lives. Happiness does not come from living an atomized materialistic life and then medicating any emotional problems away. Happiness comes from healthy and plentiful relationships with other human beings. But these days many of us spend the majority of our time in front of a screen. Especially with the pandemic, now work and recreation are spent on a screen. Whether it be a laptop, phone, or television. 
+
+We have so much less facetime with people. Our social fabric in America is unravelling. Many teenagers are told to leave their hometowns to attend college. Then after that they have to move to the area with the best prospects for jobs. And then they continue moving wherever their career takes them. This isn't a way of living optimized for human happiness. This is a way of life designed to maximize the productivity and profitability of companies. Most people don't know their neighbors, or even say hello to them when they see them. The problem isn't the technology though, it's how we are using it, and how we are allowing Big Tech companies to use it. These days the smartest people our society produces get funneled into maximizing ad clicks at Google or Facebook, or creating financial instruments at investment banks. And when you incrementally think about each aspect of our society, it's hard not to justify. Why does Google sell ads? Because humans like having free e-mail, documents, and search capabilities. Google isn't a charity. But when you zoom out and look at the bigger picture, it becomes clear that there are lots of negative drawbacks from having an attention based economy. Everything becomes commoditized and milked for attention. This is why so many people feel compelled to brag on Instagram, or tweet their hot take on twitter, or post their baby's pictures on Facebook, or make Tik toks of their dogs. People want attention. All humans, and dare I say even all mammals want attention. It's hard wired into us. 
+
+But, I digress. Ultimately, with the help of my girlfriend, psychiatric medication, and therapy, I was able to realize that I have been harboring many toxic thoughts and attitudes toward myself and others. I thought things like:
+- my self worth is attached to my productivity, income, and status
+- that I am secretly better than everyone, and that it was only a matter of time before I had my big break and made a bunch of money and was able to escape the life my peers were living
+- I needed to prove to others that I am important by getting a job at a prestigious Big Tech company
+
+I have come to realize that the things that make me happy in life are not based on material. What makes me happy is relationships with other people. Being vulnerable and open. Expressing my hopes, dreams, fears, to people I trust and care about, and them reciprocating, in effect us sharing our humanity and being our truest selves. What makes me happy now are things that happen on a daily basis. Fawning over the beauty of a view in San Francisco, seeing and/or playing with a cute dog, making small talk with a stranger and making them smile. I now see the beauty of everything around me and the amazing amount of effort that went into building my surroundings. I no longer take things for granted. Instead, I am acutely aware of how fortunate of a life I get to live, and that I am easily in the top 1% of economic privelege in the world, and even higher throughout the scope of all time. My life is materially incredibly easy, and luxurious.  
+
+
+
+<!-- Essentially easy subjects to rule over. It's pretty clear that Aldous Huxley wrote Brave New World to warn future generations to the complacency generating effects of drugs provided by "the system". Nonetheless, in our atomized society, as Kaczynski says 
+
+
+images of Patrick Bateman popping his 
+
+
+A few things being that despite doing everything he was told to do and meeting every expectation, that didn't lead to some sort of ultimate happiness. Instead all it did  -->
+
+---
+<font size="2">
+    This post is Day 5 of my #100DaysToOffload challenge. Want to get involved? Find out more at 
+    <a href="https://100daystooffload.com">100daystooffload.com</a>
+</font>
