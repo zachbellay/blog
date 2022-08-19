@@ -10,4 +10,4 @@ Hello! I'm Zach. I'm a software engineer in San Francisco, CA. When I have spare
 
 
 #### Currently 
-I currently work at OnePointOne, Inc, a startup building a fully automated indoor vertical farming system. I specifically work on the image processing subsystem using digital signal processing, machine learning, & deep learning. I also do some backend work to get everything connected.
+Currently I am in-between jobs! I was laid off by OnePointOne, Inc. If you're looking for someone to help you with computer vision related tasks or backend related tasks, shoot me an email at zbellay at gmail dot com!
