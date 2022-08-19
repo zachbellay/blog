@@ -156,3 +156,26 @@
     {{text}}
   </div>
 {% endmacro %}
+
+{% macro img(path) %}
+  {% set fullPath = config.extra.cdn_base_url ~ path %}
+
+  {% if width and center%}
+      <div class="columns is-centered">
+          <div class="column has-text-centered">
+              <img src="{{fullPath}}" width="{{width}}" {% if alt %} alt="{{alt}}" {% endif %}>      
+          </div>
+      </div>
+      
+  {% elif width and not center%}
+      <img src="{{fullPath}}" width="{{width}}" {% if alt %} alt="{{alt}}" {% endif %}>      
+  {% elif not width and center%}
+      <div class="columns is-centered">
+          <div class="column has-text-centered is-2">
+              <img src="{{fullPath}}" {% if alt %} alt="{{alt}}" {% endif %}>      
+          </div>
+      </div>
+  {%elif not width and not center%}
+      <img src="{{fullPath}}" {% if alt %} alt="{{alt}}" {% endif %}>    
+  {% endif %}
+{% endmacro %}

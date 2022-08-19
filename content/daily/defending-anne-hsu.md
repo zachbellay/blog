@@ -56,7 +56,7 @@ Ultimately, Anne Hsu apologized and revised her statement to say that the cause 
 
 ### Venting Personal Frustration
 
-Despite voting Democrat, and being liberal, I get really frustrated when people "on my team" who are usually much more radically left bash people who clearly care about minorities because the language they used wasn't perfect. Others have made the comparision, but this puritanical obsession by the left to ensure that the language deployed must be exact otherwise you will be a blasphemer just breeds resentment by people who would otherwise support causes for people who are oppressed. I really don't understand why people on the left constantly want to yell at people who are genuinely trying to do the right thing and make the world a better place. 
+Despite voting Democrat, and being liberal, I get really frustrated when people "on my team" who are usually much more radically left bash people who clearly care about minorities because the language they used wasn't perfect. Others have made the comparison, but this puritanical obsession by the left to ensure that the language deployed must be exact otherwise you will be a blasphemer just breeds resentment by people who would otherwise support causes for people who are oppressed. I really don't understand why people on the left constantly want to yell at people who are genuinely trying to do the right thing and make the world a better place. 
 
 Something I think the left needs a lot more of is compassion and patience. There is so much constant outrage at minor "offenses" that it puts a chilling effect on having any sort of discussion, which just stymies any sort of progress. 
 
