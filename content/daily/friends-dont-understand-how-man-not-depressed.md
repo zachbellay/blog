@@ -46,4 +46,10 @@ I love these comments because I believe they reflect something very true, which 
 
 Through therapy, I was able to accept that I am limited and finite in what I can achieve and accomplish. I also began practicing gratitude by writing down 3 things I was grateful for every few days. Practicing gratitude helped me be thankful for things I normally would take for granted. I've found that once you accomplish something, your brain files that away into your past and that reality becomes your new baseline. You oftentimes forget how much time and energy went into achieving that something which you should not take for granted. The nature of striving to achieve more is that no matter what you accomplish, you will always strive to do _even better_ than before. Constantly seeking to succeed and outdo yourself is something most Americans are taught to do from a young age. And it is a noble pursuit, however, if you only think of yourself as a vehicle for productivity and not a human being with a soul that needs nurturing, you will inevitably become miserable, depressed, and burnt out because you ignore your own humanity.
 
-The way I measure my own success now puts much less weight on external factors like prestige, status, money. I now know that those things are certainly useful and have their place in society, focusing solely on them will destroy you. Now I only compare myself to the man I was yesterday and who I want to be tomorrow. So long as I can have the courage to be as true to myself as possible, then I believe I will be happy, no matter the circumstances.
+The way I measure my own success now puts much less weight on external factors like prestige, status, money. I now know that those things are certainly useful and have their place in society, focusing solely on them will destroy you. Now I only compare myself to the man I was yesterday and who I want to be tomorrow. So long as I can have the courage to be as true to myself as possible, then I believe I will be happy, no matter the circumstances. Thanks for the inspiration Carl :) 
+
+---
+<font size="2">
+    This post is Day 6 of my #100DaysToOffload challenge. Want to get involved? Find out more at 
+    <a href="https://100daystooffload.com">100daystooffload.com</a>
+</font>
