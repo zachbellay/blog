@@ -4,7 +4,7 @@ date=2022-08-24
 extra.thumbnail="/assets/images/projects/defeating-perimeterx/challenge.png"
 extra.status="Done"
 extra.description="A coding challenge to reverse engineer obfuscated JavaScript code."
-extra.tools=["TypeScript"]
+extra.tools=["Node.js", "Chrome/Firefox DevTools", ]
 extra.toc = true
 +++
 

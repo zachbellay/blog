@@ -11,6 +11,7 @@ extra.images = [
     "06-22-2022.jpeg",
     "06-21-2022.jpeg",
 ]
+extra.bags_collected=15
 template = "trash/trash.html"
 +++
 
@@ -21,3 +22,4 @@ I got involved with local neighborhood clean ups in Nob Hill through Refuse Refu
 These are the images I sent on the SF 311 app to ask the city to come pick up this collected trash. I find that they are actually very responsive, so I am very grateful for the quick functioning of this aspect of the government.
 
 <br>
+

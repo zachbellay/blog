@@ -23,6 +23,9 @@
             
             {{ section.content | safe }}
 
+            <div class="is-size-3" align="center" >Total Documented Bags of Trash Collected:</div>
+            <div class="is-size-2" align="center" >{{ section.extra.bags_collected }}</div>
+
             {% set len = section.extra.images | length %}
             {% set num_fillers = (len / 4) | round(method="ceil") | int %}
 

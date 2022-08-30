@@ -4,7 +4,7 @@ date=2022-08-24
 extra.thumbnail="/assets/images/projects/amazon-auto-purchaser/snail.jpg"
 extra.status="Done"
 extra.description="A coding challenge to automatically purchase items from Amazon using code."
-extra.tools=["TypeScript"]
+extra.tools=["TypeScript", "Chrome/Firefox DevTools"]
 extra.toc = true
 +++
 

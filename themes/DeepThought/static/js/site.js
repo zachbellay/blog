@@ -277,7 +277,7 @@ $(document).ready(function () {
         // 1.25 allows a little padding when viewing in desktop
         // 0.90 removes padding and zooms into the resume when viewed on mobile
 
-        var desiredWidth = $(window).width() / ((window_width > 768) ? 1.25 : 0.90);
+        var desiredWidth = $(window).width() / ((window_width > 768) ? 2.25 : 0.90);
         var viewport = page.getViewport({ scale: 1, });
 
         var scale = desiredWidth / viewport.width;
