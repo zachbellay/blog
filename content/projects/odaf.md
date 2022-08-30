@@ -6,7 +6,7 @@ date=2021-05-13
 [extra]
 toc = true
 thumbnail="/assets/images/projects/odaf/omnibot-v40-cropped.gif"
-status="In Progress"
+status="Shelved"
 description=""
 tools=["Arduino/C/C++", "Python", "Vanilla Javascript", "React", "Konva.js", "Fusion 360", "EasyEDA",]
 +++

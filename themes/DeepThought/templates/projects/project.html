@@ -10,7 +10,7 @@
           <h1 class="title is-1">{{ section.title }}</h1>
           <p class="subtitle" style="margin-bottom: 0.5rem;">{{ section.description }}</p>
           <div class="has-text-centered">
-            Done - ✅ | In Progress - 🚧 | Cancelled - ❌
+            Done - ✅ | In Progress - 🚧 | Shelved - 📚
             <div></div>
           </div>
         </div>
@@ -42,8 +42,8 @@
                                 ✅
                               {% elif page.extra.status == 'In Progress' %}
                                 🚧
-                              {% elif page.extra.status == 'Cancelled' %}
-                                ❌
+                              {% elif page.extra.status == 'Shelved' %}
+                                📚
                               {% endif %}
                             {% else %}
                               <wbr/>
