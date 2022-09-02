@@ -1,7 +1,7 @@
 +++
 title="The Bad San Franciscan"
 date=2022-09-01
-extra.tldr=""
+extra.tldr="A man stopped me on the street asking for help, and I gave him a dollar and walked away. I later realized I was wrong and made the incorrect decision."
 +++
 
 Yesterday I was on my way from the tobacco shop after having bought a pipe to try it for the first time. As I was heading to the park where I was going to try out my newfangled intoxicant paraphernalia, I was stopped on the street by a very tall and large man who seemed to be in distress. 
