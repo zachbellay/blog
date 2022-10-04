@@ -25,6 +25,10 @@ pyenv local deez-nuts-joke-generator-dev
 
 pip install poetry
 
+# initialize project
+
+poetry init
+
 # install new dependencies
 
 poetry add numpy
