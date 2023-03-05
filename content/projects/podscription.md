@@ -32,11 +32,6 @@ I am an avid podcast listener and sometimes remember certain conversations, but 
 
 I looked for existing solutions, but nothing super comprehensive really existed (or really exists).
 
-Typically transcribing audio is fairly expensive. You could use offerings like Google's Cloud Speech-to-text, which one of the existing websites [podscribe.app](https://podscribe.app/) uses. On their website they say that each podcast costs between $2.50-$5.00 to transcribe. But on [September 21st, 2022 OpenAI released Whisper](https://openai.com/research/whisper), a model that automatically transcribes audio with high performance and low cost. 
-
-Upon further inspection, Google's Cloud Text-to-speech's best offering is $0.016/minute of transcribed audio. Which comes out to $0.96 for a 60 minute podcast. On the other hand OpenAI just released their hosted Whisper API which costs $0.006/minute, which means a 60 minute podcast only costs $0.36 to transcribe, a 62% reduction in cost.
-This basically drove the cost of audio transcription.
-
 Typically transcribing audio is fairly expensive. One existing website [podscribe.app](https://podscribe.app/) use Google Clouds Speech-to-text offering, which costs 96¢/1 hour episode. However, among the whirlwind of AI news, on [September 21st, 2022 OpenAI released Whisper](https://openai.com/research/whisper), a model that automatically transcribes audio with high performance and low cost. [OpenAI's Whisper API costs $0.006/minute](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), which means a 60 minute podcast only costs $0.36 to transcribe, a 62% reduction in cost. This project was pretty much a non-starter before Whisper was released partially because of the cost, but also because with Whisper I can run it on my own gaming machine, which means it only costs me electricity and internet bandwidth.
 
 ### My Goals
