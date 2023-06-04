@@ -2,7 +2,7 @@
 title="Podscription: AI Generated Podcast Transcripts"
 date=2023-02-08
 extra.thumbnail="/assets/images/projects/podscription/landing-page.png"
-extra.status="In Progress"
+extra.status="Shelved"
 extra.description="A website that automatically transcribes podcasts."
 extra.tools=["Python", "Django", "Celery", "TypeScript", "React", "TailwindCSS", "OpenAI Whisper", "Flowbite" ]
 extra.toc = true
@@ -13,13 +13,6 @@ extra.toc = true
 </a>
 
 <center>The landing page for podscription.</center>
-
----
-
-<center style="font-size:1.5em; color: #363636; font-weight: 600;">Check it out at</center>
-<center style="font-size:1.5em; color: #363636; font-weight: 600;">➡️ <a href=http://www.podscription.app>www.podscription.app</a> ⬅️</center>
-
----
 
 ### What is podscription?
 
@@ -54,6 +47,7 @@ Typically transcribing audio is fairly expensive. One existing website [podscrib
 - Celery
 - Docker Compose 
 - Nginx Proxy Manager
+- OpenAPI Generator CLI -- Cannot say enough good things about this
 - ~~Apache Airflow~~
 
 
@@ -102,7 +96,9 @@ The Search View, has the top podcast results as well as top podcast episode resu
 
 ### Current Status
 
-I've decided to slim the podcasts down just to podcasts I listen to and care about so that I can keep costs and maintenance low. 
+~~I've decided to slim the podcasts down just to podcasts I listen to and care about so that I can keep costs and maintenance low.~~
+
+Shelved 📚
 
 
 ### Going Forward 
