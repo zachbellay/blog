@@ -1,9 +1,5 @@
 +++
 title = "Music"
-
-[taxonomies]
-categories = ["Page"]
-
 +++
 
 # What am I listening to? 

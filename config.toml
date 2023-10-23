@@ -7,15 +7,15 @@ default_language = "en"
 
 [languages.en]
 title = "Zach Bellay"
-[languages.jp]
-title = "Zach Bellay"
-[languages.es]
-title = "Zach Bellay"
-
 taxonomies = [
 	{ name = "categories", feed = true, paginate_by = 10 },
 	{ name = "tags", fees = true, paginate_by = 10 },
 ]
+[languages.jp]
+title = "Zach Bellay"
+
+[languages.es]
+title = "Zach Bellay"
 
 highlight_theme = "one-dark"
 
