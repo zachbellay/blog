@@ -22,14 +22,14 @@
             </div>
           {% endif %}
           <div class="columns is-multiline is-gapless">
-            <div class="content mt-2" style="max-width: 100%;">
-              {{ page.content | safe }}
-            </div>
             <div class="column is-8">
               {{ macros::page_publish_metadata(page=page) }}
             </div>
             <div class="column is-4 has-text-right-desktop">
               {{ macros::page_content_metadata(page=page) }}
+            </div>
+            <div class="content mt-2" style="max-width: 100%;">
+              {{ page.content | safe }}
             </div>
             <div class="column">
               {% if page.taxonomies.categories %}
@@ -40,7 +40,7 @@
               {% if page.taxonomies.tags %}
               {{ macros::render_tags(tags=page.taxonomies.tags) }}
               {% endif %}
-            </div>
+            </div>   
           </div>
         </article>
       </div>
