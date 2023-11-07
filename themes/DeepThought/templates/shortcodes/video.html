@@ -1,6 +1,13 @@
 {% set fullPath = config.extra.cdn_base_url ~ path %}
 
+{% if vttPath %}
+{% set vttFullPath = config.extra.cdn_base_url ~ vttPath %}
+{% endif %}
+
 <video controls>
     <source src="{{fullPath}}" type="video/mp4">
+    {% if vttFullPath %}
+    <track label="English" kind="subtitles" srclang="en" src="{{vttFullPath}}" default />
+    {% endif %}
     Your browser does not support the video tag.
 </video>
