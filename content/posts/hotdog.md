@@ -2,8 +2,8 @@
 title="San Francisco Street Hot Dog Permitting is Bullshit"
 date=2023-11-07
 extra.tldr="Getting a permit as a street hot dog vendor is really fucking hard."
-taxonomies.tags = ["Street Meat"]
-taxonomies.categories = ["Politics"]
+#taxonomies.tags = ["Street Meat"]
+#taxonomies.categories = ["Politics"]
 +++
 
 {{ video(path="/assets/images/posts/hotdog/hotdog.mp4", vttPath="/assets/images/posts/hotdog/hotdog.vtt")}}
