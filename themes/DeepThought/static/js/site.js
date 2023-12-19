@@ -261,12 +261,11 @@ $(document).ready(function () {
     var pdfjsLib = window['pdfjs-dist/build/pdf'];
 
     // The workerSrc property shall be specified.
-    pdfjsLib.GlobalWorkerOptions.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
+    pdfjsLib.GlobalWorkerOptions.workerSrc = '//cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.js';
 
     // Asynchronous download of PDF
     var loadingTask = pdfjsLib.getDocument(url);
     loadingTask.promise.then(function (pdf) {
-      console.log('PDF loaded');
 
       // Fetch the first page
       var pageNumber = 1;
@@ -277,7 +276,7 @@ $(document).ready(function () {
         // 1.25 allows a little padding when viewing in desktop
         // 0.90 removes padding and zooms into the resume when viewed on mobile
 
-        var desiredWidth = $(window).width() / ((window_width > 768) ? 2.25 : 0.90);
+        var desiredWidth = $(window).width() / ((window_width > 768) ? 1.4 : 1.0);
         var viewport = page.getViewport({ scale: 1, });
 
         var scale = desiredWidth / viewport.width;
