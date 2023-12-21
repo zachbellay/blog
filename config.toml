@@ -4,6 +4,7 @@ base_url = "https://www.zachbellay.com"
 
 theme="DeepThought"
 default_language = "en"
+generate_feed = true
 
 [languages.en]
 title = "Zach Bellay"
