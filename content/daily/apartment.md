@@ -41,8 +41,9 @@ The lobby of the building.
 - street facing window, great sunlight
 - sliding door opens up to living room
 
-{{ img(path="/assets/images/daily/apartment/dante_room_1.JPG") }}
-{{ img(path="/assets/images/daily/apartment/dante_room_2.JPG") }}
+{{ img(path="/assets/images/daily/apartment/dante_room_1.jpg") }}
+{{ img(path="/assets/images/daily/apartment/dante_room_2.jpg") }}
+{{ img(path="/assets/images/daily/apartment/dante_room_3.jpg") }}
 
 ## Kitchen
 {{ img(path="/assets/images/daily/apartment/kitchen.JPG") }}
