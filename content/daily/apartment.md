@@ -19,6 +19,10 @@ If you're interested in the place, I can show you around or send more pictures. 
 - in Nob Hill neighborhood, super walkable, great location
 - gated outdoor parking spot available for $312/mo
 
+{{ img(path="/assets/images/daily/apartment/apt2.jpg") }}
+{{ img(path="/assets/images/daily/apartment/apt1.jpg") }}
+{{ img(path="/assets/images/daily/apartment/lobby.jpg") }}
+
 ### Room 1:
 - Rent: $1644.60
 - Utilities: About $50/mo (power, water, sewer, trash)
