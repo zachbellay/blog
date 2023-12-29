@@ -31,4 +31,4 @@ Lastly, I'll leave you with 1 analogy:
 
 - **Refactoring code is like putting food in your fridge:** When there's nothing in there, you can just throw your food in there and it's no big deal, no need to worry about what goes where. But keep haphazardly throwing stuff in there and eventually your door won't close, and your food will rot. So instead, once you have a few items, you should reorganize your fridge so that things can be stacked on top of each other but also take into account what you access frequently.
 - Now coming from the other side, if you're too prescriptive and say "hey the middle shelf is only allowed to have one carton of 12 brown eggs in this 14"x5" area". But then National Quiche Appreciation Day rolls around and your roommate decides to throw a 50 person Quiche Party, well now you're fucked because your made up rule isn't letting your roommate stockpile 12 dozen eggs to serve her 50 hangry guests. 
-- So moral of the story is? A smell mess is ok, clean up your mess before it gets too big, and don't be clean freak.
+- So moral of the story is? A small mess is ok, clean up your mess before it gets too big, and don't be clean freak.
