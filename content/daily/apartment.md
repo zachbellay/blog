@@ -22,6 +22,7 @@ If you're interested in the place, I can show you around or send more pictures. 
 {{ img(path="/assets/images/daily/apartment/apt2.jpg") }}
 {{ img(path="/assets/images/daily/apartment/apt1.jpg") }}
 {{ img(path="/assets/images/daily/apartment/lobby.jpg") }}
+The lobby of the building.
 
 ### Room 1:
 - Rent: $1644.60
