@@ -24,6 +24,12 @@ If you're interested in the place, I can show you around or send more pictures. 
 {{ img(path="/assets/images/daily/apartment/lobby.jpg") }}
 The lobby of the building.
 
+{{ img(path="/assets/images/daily/apartment/rec.JPG") }}
+The downstairs rec room w/ pool table, conference room & 2 flat screens.
+
+{{ img(path="/assets/images/daily/apartment/laundry.JPG") }}
+Washer dryers downstairs in building.
+
 ### Room 1:
 - Rent: $1644.60
 - Utilities: About $50/mo (power, water, sewer, trash)
