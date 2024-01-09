@@ -4,12 +4,14 @@ date=2023-12-29
 extra.tldr=""
 +++
 
-Hi! My name is Zach Bellay, I'm 26, I'm looking for 2 male roommates to live with at 1369 Hyde St Apt 18. The lease would be a 12 month lease that starts March 1, 2024. I work remote as a software engineer at Rinse, and have been living here for 2.5 years. My roommates are leaving, one to New York, another to Florida, but I love this place and since it's a great deal I want to keep it.
+Hi! My name is Zach Bellay, I'm 26, I'm looking for 2 male roommates to live with at 1369 Hyde St. The lease would be a 12 month lease that starts March 1, 2024. I work remote as a software engineer, and have been living here for 2.5 years. My roommates are leaving, one to New York, another to Florida, but I love this place and since it's a great deal I want to keep it.
 
-If you're interested in the place, I can show you around or send more pictures. Text me at (425)444-7070.
+Furniture won't all be the same since, and I'm happy to redecorate and move things around.
+
+If you're interested in the place, I can show you around or send more pictures. Email me at <a href="mailto:zbellay@gmail.com">zbellay@gmail.com</a>
 
 
-## 1369 Hyde St Apt 18
+## 1369 Hyde St
 - 3 bed, 1 bath (renovated)
 - in building laundry (pay via app so no quarters!)
 - large renovated kitchen w/ dishwasher
