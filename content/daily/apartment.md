@@ -33,7 +33,7 @@ The downstairs rec room w/ pool table, conference room & 2 flat screens.
 Washer dryers downstairs in building.
 
 ### Room 1:
-- Rent: $1644.60
+- Rent: ~$1700
 - Utilities: About $50/mo (power, water, sewer, trash)
 - Dimensions: 15'x12' = 180 sqft (it's a massive room)
 - 2 closets
@@ -42,7 +42,7 @@ Washer dryers downstairs in building.
 {{ img(path="/assets/images/daily/apartment/alex_room_2.JPG") }}
 
 ### Room 2:
-- Rent: $1,776.81
+- Rent: ~$1700
 - Utilities: About $50/mo (power, water, sewer, trash)
 - Dimensions: 12"x12.5" = 150 sqft
 - built in cabinets
