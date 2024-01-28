@@ -18,8 +18,13 @@ If you're interested in the place, I can show you around or send more pictures. 
 - mail room
 - amazing building manager (his name is Ervin, he is super responsive and nice)
 - rec room w/ pool table, conference room, and 2 flat screens 
-- in Nob Hill neighborhood, super walkable, great location
 - gated outdoor parking spot available for $312/mo
+
+## Location
+- in Nob Hill neighborhood, super walkable, great location, safe
+- 3 blocks from Trader Joe's, 1 block from neighborhood grocer La Beau
+- central location, super close to Polk St, Chinatown, North Beach, FiDi, Marina
+
 
 {{ img(path="/assets/images/daily/apartment/apt2.jpg") }}
 {{ img(path="/assets/images/daily/apartment/apt1.jpg") }}
