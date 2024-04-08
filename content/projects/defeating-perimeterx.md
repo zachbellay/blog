@@ -8,6 +8,8 @@ extra.tools=["Node.js", "Chrome/Firefox DevTools", ]
 extra.toc = true
 +++
 
+**Note to Readers: Do NOT contact me for help defeating PerimeterX. I will NOT help you. I have recieved many solicitiations for help and I do not want to help you in your botting efforts.**
+
 {{ img(path="/assets/images/projects/defeating-perimeterx/challenge.png", center="True") }}
 
 
