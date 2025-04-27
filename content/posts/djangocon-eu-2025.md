@@ -99,10 +99,13 @@ My list of the best talks are at the bottom.
 - **B+ Tree**: High-level overview of B+ tree data structures.
 
 ## Some Companies using Django
-- Octopus Energy
-- Divio
-- codered.cloud
-- 
+- Octopus Energy : UK/Australia energy company
+- Divio : django hosting for agencies
+- codered.cloud : easy django hosting
+- Monit : parking management system
+- Gem Logic: Jewelry ERP 
+- Zelthy: Custom healthcare app development platform in India
+
 
 ---
 
