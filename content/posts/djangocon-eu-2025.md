@@ -12,7 +12,9 @@ Here are some of the most interesting things I learned at DjangoCon EU 2025 in D
 
 My list of the best talks are at the bottom.
 
-<img src="/imgs/djangocon-eu-2025/group-photo.png">
+<img src="/imgs/djangocon-eu-2025/group-photo.png" alt="Group photo of DjangoCon EU 2025 conference goers, with me circled">
+Me at DjangoCon EU 2025!
+
 
 ---
 
