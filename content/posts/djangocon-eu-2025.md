@@ -1,7 +1,7 @@
 +++
 title="Takeaways from DjangoCon EU 2025"
 date=2025-04-26
-extra.tldr="Dublin the Django community are awesome."
+extra.tldr="Dublin and the Django community are awesome."
 taxonomies.tags = ["post"]
 taxonomies.categories = ["django", "djangocon"]
 extra.toc = true
