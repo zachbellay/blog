@@ -41,6 +41,26 @@ Me at DjangoCon EU 2025!
 - **Check Laptop vs Cloud Server IO Speed**: If your DB/app is slower in the cloud, compare cloud disk speed with your laptop's disk speed to see if the bottleneck is hardware or I/O.
     - TODO: Insert command that can do this (will need to find this one talks are posted on YouTube)
 - **TCP_NODELAY and Nagle's Algorithm**: If you're experiencing a bottleneck of around 25 requests/sec or 40ms per call, it might be due to TCP_NODELAY or Nagle's algorithm. These can be disabled using environment variables to improve performance.
+- **Analyze DB Queries via Django ORM**: When debugging slow queries, you can use `EXPLAIN ANALYZE` SQL to generate the query plan. From there you can read that out and better understand where the bottlenecks are (e.g. Seq Scans instead of Index lookups AKA O(N) vs O(lg(N)) operations)
+```py
+>>> print(Blog.objects.filter(title="My Blog").explain())
+Seq Scan on blog  (cost=0.00..35.50 rows=10 width=12)
+  Filter: (title = 'My Blog'::bpchar)
+
+# cost(cost=<the time taken to get the first entry>..<the time take to get all entries>)
+# typically you care about all entries, but if you're getting a single row, then you might care about the time to get the first entry
+```
+- **Analyze DB Write Queries without changing data via Django ORM**: If you have a query that does a write operation and you want to get the query plan you can do the query in a transaction, and rollback:
+```py
+from django.db import transaction
+
+try:
+    with transaction.atomic():
+        print(Blog.objects.filter(title="My blog").update(author="Zach Bellay").explain())
+        raise Exception("rollback")
+except Exception:
+    pass
+```
 
 ---
 
@@ -123,6 +143,8 @@ Me at DjangoCon EU 2025!
 
 ## Vibes
 - seems like people prefer `django-cotton` over `django-components` because of the HTML like syntax
+    - IMO django-components is more fully featured, django-cotton syntax is nicer
+        - e.g. `<c-dashboard-widget></c-dashboard-widget>` vs `{% component "dashboard-widget %}{% endcomponent %}`
 - there was much talk about how django's governance as a project, and basically only a tiny minority participates or contributes (superstars)
 
 ### (What I noticed as an American in Europe)
@@ -131,6 +153,7 @@ Me at DjangoCon EU 2025!
 - Dublin is also experiencing a cost of living crisis, facing NIMBYism to upzone.
 - All Ubers in Dublin were actually licensed taxi drivers, which were hailed via the app. This seemed much less exploitative of the drivers than the typical gigified Uber driver. 
 - Comparing SF to Dublin, there was virtually no homelessness or crazy people on the streets, and no poop on the streets (I hate to play into the narrative, but it was true, I also did go to the touristy areas though)
+- No tech bro vibe, not sure why, but it felt much more like a group of enthusiasts rather than hustlers
 
 --- 
 ## The Best Talks
