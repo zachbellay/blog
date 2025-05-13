@@ -77,6 +77,8 @@ except Exception:
 - **`MaxMind`**: Recommended for blocking "bad people" (not just bots) using their database.
     - a bad bot being some script that is hitting `/xmlrpc.php` versus a bad person being someone who is maliciously solving captcha's, using legit looking emails/phone numbers, and doing bad things to your site (like trying to host crypto miners, etc)
 - **`dj-angles`**: Use HTML-like elements in Django templates, e.g. <dj-partial /> instead of {% include 'partial.html' %} [Docs](https://dj-angles.adamghill.com/en/stable/)
+- **`django-ckeditor-5`**: If you need a rich text field (i.e. the ability to dynamically add text, bold/italicize it, add images, tables, etc) then use django-ckeditor-5. 
+<img src="/imgs/djangocon-eu-2025/ckeditor5.png" alt="Screenshot of CKEditor5 configuration menu">
 
 ---
 
