@@ -1,0 +1,79 @@
+# Sveltia CMS — browser editor at https://www.zachbellay.com/admin/
+# Docs: https://sveltiacms.app/en/docs/frameworks/zola
+backend:
+  name: github
+  repo: zachbellay/blog
+  branch: main
+  # With no base_url, "Sign in with GitHub" uses Netlify's OAuth provider.
+  # "Sign in with Token" (a GitHub PAT) also works.
+
+site_url: https://www.zachbellay.com
+display_url: https://www.zachbellay.com
+
+# Uploads from the editor land in the repo. Existing posts keep using the
+# {{ img(path=...) }} shortcode served from the DigitalOcean Spaces CDN.
+media_folder: static/imgs
+public_folder: /imgs
+
+slug:
+  encoding: ascii
+  clean_accents: true
+
+collections:
+  - name: daily
+    label: Daily Blog
+    label_singular: Daily Post
+    folder: content/daily
+    format: toml-frontmatter
+    create: true
+    slug: "{{slug}}"
+    sortable_fields:
+      fields: [date, title]
+      default: { field: date, direction: descending }
+    summary: "{{title}} — {{date}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: datetime, type: date }
+      - { name: draft, label: Draft, widget: boolean, default: false, required: false }
+      - name: extra
+        label: Extra
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: tldr, label: TL;DR, widget: string, required: false }
+      - { name: body, label: Body, widget: markdown }
+
+  - name: posts
+    label: Blog Posts
+    label_singular: Blog Post
+    folder: content/posts
+    format: toml-frontmatter
+    create: true
+    slug: "{{slug}}"
+    sortable_fields:
+      fields: [date, title]
+      default: { field: date, direction: descending }
+    summary: "{{title}} — {{date}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: datetime, type: date }
+      - { name: draft, label: Draft, widget: boolean, default: false, required: false }
+      - { name: description, label: Description, widget: string, required: false }
+      - name: taxonomies
+        label: Taxonomies
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: tags, label: Tags, widget: list, required: false }
+          - { name: categories, label: Categories, widget: list, required: false }
+      - name: extra
+        label: Extra
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: tldr, label: TL;DR, widget: string, required: false }
+          - { name: toc, label: Table of contents, widget: boolean, required: false }
+      - { name: body, label: Body, widget: markdown }
