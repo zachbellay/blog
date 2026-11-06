@@ -10,10 +10,21 @@ backend:
 site_url: https://www.zachbellay.com
 display_url: https://www.zachbellay.com
 
-# Uploads from the editor land in the repo. Existing posts keep using the
-# {{ img(path=...) }} shortcode served from the DigitalOcean Spaces CDN.
+# Git-repo fallback storage (Sveltia requires a default).
 media_folder: static/imgs
 public_folder: /imgs
+
+# DigitalOcean Spaces: uploads get the public-read ACL and are inserted with
+# CDN URLs. The secret key is entered once in the CMS UI and stays in the
+# browser; only the (non-secret) access key ID lives here.
+media_libraries:
+  digitalocean_spaces:
+    label: DO Spaces CDN
+    access_key_id: DO801ZA33BQY7KQNWWQY
+    bucket: zbellay
+    region: sfo3
+    prefix: assets/images/
+    public_url: https://zbellay.sfo3.cdn.digitaloceanspaces.com
 
 slug:
   encoding: ascii
